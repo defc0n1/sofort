@@ -61,8 +61,7 @@ module Sofort
 
       {
         amount: amount,
-        currency_code: currency_code,
-        language_code: language_code,
+        currency_code: currency_code
         reasons: {
           reason: reason
         },
